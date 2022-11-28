@@ -3,7 +3,7 @@ spec:
   configSync:
     enabled: true
     sourceFormat: unstructured
-    syncRepo: https://github.com/600lyy/Build-KRM-Platform
+    syncRepo: https://github.com/ligaviskinte/Build-KRM-Platform
     syncBranch: main
     secretType: token
     policyDir: cluster
