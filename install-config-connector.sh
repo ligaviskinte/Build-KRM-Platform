@@ -15,6 +15,6 @@ kcc_install() {
         --update-addons ConfigConnector=ENABLED
 }
 
-kcc_install "admin"
+kcc_install "demo-admin"
 
 echo "✅ Finished installing Config Connector for $CLUSTER_NAME."

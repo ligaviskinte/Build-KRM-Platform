@@ -56,7 +56,7 @@ create_git_secret () {
 }
 
 setup_sa_for_kcc
-create_git_secret "admin"
+create_git_secret "demo-admin"
 
 echo "✅ Finished setting up service account and necessary permissions for kcc in the host project $PROJECT_ID."
 
